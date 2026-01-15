@@ -3,8 +3,6 @@ Demo Video:
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 
-👉 Project Repository: https://github.com/Revant-1/Ml-Backend
-
 🫀 Cardiovascular Disease Risk Prediction using Machine Learning:
 
 A machine learning-driven healthcare analytics system aimed at enhancing cardiovascular disease (CVD) risk assessment by leveraging structured clinical, lifestyle, and genetic data. This project was developed as part of a research initiative at Fr. C. Rodrigues Institute of Technology, Vashi.
@@ -87,16 +85,3 @@ Expansion to prediction of other chronic diseases like diabetes
 
 Real-time predictive dashboards for hospital settings
 
-👥 Authors
-Aryan Nair – nairaryan135@gmail.com
-
-Dhyan Patel – dhyanbpatel2005@gmail.com
-
-Steffi Varghese – steffiv875@gmail.com
-
-Revant Shinde – revantshinde@gmail.com
-
-Mentors:
-Dr. Smita Dange
-
-Dr. Shashikant Dugad
